@@ -8,7 +8,9 @@ venv/
 .env/
 .venv/
 models/
-outputs/
+outputs_word/
+!IT-Helpdesk-Ticket-Classifier/outputs/
+!IT-Helpdesk-Ticket-Classifier/outputs/*.png
 data/*.csv
 data/*.xlsx
 *.pkl
